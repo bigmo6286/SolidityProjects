@@ -2,4 +2,4 @@ HERE ARE SOME OF MY LIVE PROJECTS HOSTED ON VERCEL
 
 1] THIS IS A NFT TOKEN MINTING APP USING THE ETHEREUM SEPOLIA TESTNET
 
-https://nextjs-two-swart-68.vercel.app/
+(https://nextjs-fkf9mv8x2-bigmo6286s-projects.vercel.app/)
